@@ -1,0 +1,90 @@
+Perguntas alunos
+=================
+
+- O que está sendo feito para melhorar a qualidade das aulas dos professores?
+
+- Inteligência Artificial
+
+- O quão difícil seria criar uma nova disciplina de MAC? Tenho interesses em
+  áreas que as matérias existentes cobrem de pouco a nada. Em específico
+  disciplinas em Aprendizado de Máquina e Redes Neurais. Seria possível criar
+  disciplinas com esses assuntos vistos com mais aprofundamento do que
+  disciplinas atuais?
+
+- Como funciona inscrição em matérias de pós? Se eu estivesse interessado em
+  uma matéria de pós, poderia me inscrever e receber os créditos?
+
+- A disciplina de Compiladores, desativada em 200? e reativada esse ano, traz
+  novidades implementadas nos compiladores atuais?
+
+- Já que o professor de física se recusa a dar aula pq estão todas gravadas,
+  posso me gravar vendo uma ~aula~ dele e cobrar que ele me dê presença
+  por isso?
+
+- Porque colocar álgebra I (fundamentos de matematica para computação MAC105)
+  como matéria do MAC e não do MAT?
+
+- Muitos alunos encontram dificuldades para conseguir equivalências de
+  matérias feitas durante intercâmbio. Vocês acham o processo atual de pedir
+  equivalências muito rígido? Existe algum plano de mudar esse método?
+
+- Apesar de esse problema ser mais presente em outros departamentos, como o
+  do MAT, alguns alunos passam por casos contrangedores em algumas matérias,
+  como professores que corrigem provas em cima da hora e colocam no jupiter,
+  sem dar oportunidade para o aluno obter um feedback ou ver sua própria
+  prova. Ou até mesmo ataques ao ego da pessoa (as vezes sem intenção) que 
+  podem fazer muito mal para alunos snesibilizados por problemas pessoais ou
+  problemas de saúde. Imagino que diversos professores podem chegar a achar 
+  isso como besteira, mas que caos seja o caso, tente considerar isso como 
+  um problema real por alguns minutos... quais seriam soluções possíveis, 
+  para quem o aluno pode recorrer nesse caso para ajuda?
+
+- Como os professores do DCC enxergam o modelo semi-presencial de aulas?
+  Experiências nesse sentido já vem acontecendo não só no DCC como na USP 
+  inteira, porém acabam falhando por dar um ênfase muito grande na parte à 
+  distância do curso. O professor acaba muitas vezes delegando toda a função
+  de ensinar para as vídeo-aulas ou materiais de leitura, e seu trabalho 
+  passa a ser apenas tirar possíveis dúvidas. Vejo falhas nesse estilo pois,
+  além da tradicional timidez da maior parte dos alunos (que acabam não 
+  tirando suas dúvidas por causa disso), muitos acabam ficando tão confusos 
+  que não tiram dúvidas pois não entenderam absolutamente nada.
+
+  Vejo essa ausência do professor no modelo semi-presencial atual como 
+  trazendo muito mais prejuízo ao aprendizado do que o benefício trazido 
+  pela flexibilidade do estudo fora de sala de aula. Sugiro uma inversão no 
+  processo: que os professores direcionem a parte presencial do curso para 
+  ensinar os conceitos mais difíceis, e utilizem as plataformas de EAD para 
+  as aulas mais simples, exercícios interativos, tira-dúvidas (como já ocorre 
+  com o PACA) e leituras complementares."
+
+- O programa de tutoria está dando certo? Como fazer para melhorar?
+
+- Um problema geral no ensino é a falta de interesse dos alunos e a cultura 
+  de fazer o menor esforço possível para passar na disciplina. Esse tipo de 
+  problema acontece com frequencia no BCC? Se sim, por mais complexo e 
+  sistêmico que seja esse problema na sociedade, que iniciativas poderiam ser
+  feitas para ajudar a mudar essa cultura no IME?
+
+- Como será a qualificação, para estágios, de empresas em que os alunos 
+  poderão se candidatar? Continuará seguindo a regra de empresa conveniada 
+  ao Instituto?
+
+- Como será definida a prioridade na autorização de estágios?
+
+- Haverá alguma restrição, por mérito, ou tempo de graduação para a 
+  autorização de estágios?
+
+- Alunos que ingressaram no currículo antigo podem mudar para o novo? 
+  Se sim, ingressantes a partir de que ano?
+
+- Porque tão poucas matérias de teoria de verdade? Computabilidade, 
+  Complexidade, Teoria da Informação e de Códigos, Teoria da Informação 
+  Algorítmica são tópicos importantes em Theoretical Computer Science que 
+  não são cobertos em nenhuma matéria. Porque?
+
+- Ainda é inviável dividir o TCC em TCC 1 e 2 para que alunos (como aqueles 
+  que voltam de intercâmbio) possam se matricular no TCC no segundo semestre?
+
+- Na reunião do ano passado falou-se muito sobre como proceder para aceitar
+  as disciplinas cursadas por alunos em intercâmbio. Como estão seguindo 
+  essas ideias?

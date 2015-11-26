@@ -1,0 +1,118 @@
+Ata da 3ª reunião do VII Encontro do BCC (07/04)
+(feita por: Luís Felipe)
+
+Participantes:
+
+Victor Sprengel (1º ano), Gustavo Silva (1º ano), Luis Felipe (1º ano), Gabriel
+Capella (1º ano), Gabriel Lasso (1º ano), Camila Naomi (1º ano), Vinícius (2º
+ano), João (3º ano), Lucas Dário (4º ano), Arthur (6º ano).
+
+Informe:
+
+Não haverá palestra da Dilma devido a problemas com o horário dela.
+
+Temas escolhidos na votação online:
+
+1º lugar: Inteligência Artificial (35 votos)
+2º lugar: Criptografia (33 votos)
+3º lugar: O que fazer depois do BCC? (33 votos)
+4º lugar: Computação de Alto Desempenho (28 votos)
+5º lugar: Teoria dos Jogos (25 votos)
+6º lugar: Mestrados e Doutorados (23 votos)
+7º lugar: Mulheres na Computação (23 votos)
+8º lugar: Computação Quântica (23 votos)
+9º lugar: Mineração de Dados (22 votos)
+10º lugar: Cidades Inteligentes (21 votos)
+11º lugar: Redes Neurais (20 votos)
+12º lugar: Teoria da Computação (19 votos)
+13º lugar: USPGameDev (19 votos)
+14º lugar: O que é IC? (17 votos)
+15º lugar: Empresas de Jogos (17 votos)
+
+Busca por Palestrantes:
+
+Tema, Pessoa responsável e professor que pode ajudar.
+
+IA: Victor Sprengel -> Marcelo Finger e Renata Wassermann
+Criptografia: Gustavo -> Routo
+O que fazer depois do BCC: João -> Goldman e Carlinhos
+Computação de Alto Desempenho: João -> Finger, Goldman, Kon
+Teoria dos Jogos: Vinícius -> Patriota
+Mestrado/Doutorado: Arthur -> ver com Suzana e Samuel se eles querem este tema
+Mulheres na Computação: Camila e Ludmila -> Camila Achutti e a própria Ludmila
+Computação Quântica: João e Dário -> Gubi, Marcelo, Cris
+Mineração de Dados: Vinícius -> ver com o Caio Lente se ele quer este tema
+Cidades Inteligentes: Pessoal do Hackaton -> não se sabe ainda
+Redes Neurais: Luis Felipe -> Fujita
+Teoria da Computação: Victor Sprengel -> Yoshi
+USPGameDev: Wil -> pessoal do próprio USPGameDev
+O que é IC: Gabriel Lasso -> qualquer um
+Empresas de Jogos: Arthur -> Tapps
+
+Pessoas que não compareceram à reunião podem avisar quais temas gostariam de
+participar.
+
+Procedimento para procurar palestrantes: Trocar e-mails e conversar pessoalmente
+com os professores para que eles indiquem palestrantes. Sites do IME e do DCC
+possuem informações dos professores separados por área, para facilitar o contato
+com eles.
+
+Pedir para o Renato o e-mail padrão de início de conversa com potenciais
+palestrantes.
+
+João irá procurar o "guia do encontro" dos anos passados, com informações de
+como organizar o Encontro.
+
+Quem ficar responsável por palestras deverá criar o cartãozinho da palestra no
+Trello e administrá-lo. O link do Trello vai ser enviado para todos por e-mail
+no futuro próximo.
+
+Divulgação:
+
+Foi decidido que não era o momento de decidir coisas como padrão de cores,
+estilo dos cartazes, e que esses tópicos podem ser melhor discutidos pelo
+próprio pessoal da Divulgação, por e-mail. Mas que é bom já ir começando a fazer
+os cartazes.
+
+Burocracia:
+
+Vinícius irá descobrir a data da próxima reunião do CCSL para que o João possa
+mandar os ofícios.
+
+Hackathon:
+
+Todos estão a par da conversa com o vice-prefeito e da aprovação deste último.
+Agora, é bom ir pensando nos temas elencados por ele. No futuro próximo ele irá
+levar o assunto para debate com outras autoridades da prefeitura do campus para
+ajudar a definir o tema.
+
+Patrocínio de Empresas:
+
+Seria bom já começar a ver os patrocínios. Alguns alunos do 1º ano manifestaram
+interesse em participar do processo. Por isso, os primeiros e-mails vão ser
+enviados para o grupo inteiro do Encontro, para que todos os interessados em
+participar se manifestem, aí os e-mails futuros só irão para estas pessoas.
+
+Algumas sugestões de empresas:
+
+-Google
+-Facebook
+-Mozilla
+-Tapps
+-Kekanto
+-K19
+-Caelum
+-Intel
+-HP
+-Paypal
+-Thought Works
+-GFT
+-TFG
+-Liberalis
+-Springer
+-Blucher
+-Gizmodo
+-UOL
+
+Próxima Reunião: 21/05.
+

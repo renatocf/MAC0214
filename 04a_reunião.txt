@@ -1,0 +1,77 @@
+Ata da 4ª reunião do Encontro do BCC (21/05)
+(feita por: Luís Felipe)
+
+Presentes:
+  
+    Gabriel Capella, Gustavo Silva, Luís Felipe de Melo e Victor Sprengel (1ºano);
+    Caio Lente (2ºano);
+    Ludmila Ferreira, Mateus Barros, Lucas Dário e Renato Cordeiro (4ºano);
+    Arthur Branco (6ºano);
+
+16h15 - Discussões sobre a Divulgação:
+    
+    Resultados:  
+        Estabelecer algum meio de acompanhamento melhor entre os integrantes do grupo.
+        Para isso, foi sugerido o uso mais frequente do Trello. 
+        Para a primeira onda:
+            Atualizar a página do Facebook. 
+        Para a segunda onda:
+            Atualizar a página oficial.
+
+16h25 - Patrocínios:
+
+    Análise das más experiências e problemas (com a Intel, principalmente).
+    Foi avaliada a possibilidade de, categorizados os patrocinadores, conceder palestras para os de maior nível (Diamante e/ou ouro).
+    Isso deverá ser necessário porque há poucas chances de espaços disponíveis.
+
+16h40 - Para relembrar as próximas reuniões, foram designadas pessoas para lembrar os colegas de seu ano. 
+  
+    1ºano: Luís Felipe.
+    2ºano: Caio Lente.
+    3ºano: João Henrique (que não estava presente, mas que já costumava mandar e-mails sobre esse assunto).
+    4ºano: Renato e Lucas.
+
+16h54 - Ofícios
+    Houve uma reunião com o CG em 20/05.
+    No dia 22/05 haverá uma reunião com o CPG
+    A reunião com a COP será na próxima semana.  
+    O Arthur pedirá permissão para a realização da Feira do Livro.
+ 
+17h - Hackathon.
+    Analisar a estrutura do IME para guardar os alimentos.
+    A situação com o vice-prefeito, sobre o tema, está sendo bem resolvida.
+    Sobre as camisetas:  
+        Podem ser pedidas com 20 dias de antecedência.
+        Precisam ter a arte pronta, e podem ter patrocínio estampado. 
+
+17h08 - Palestras
+  
+    Mulheres no Computação - Ainda está sendo estruturada.
+ 
+    Teoria da Computação - Os professores Carlinhos e Yoshi estão ajudando a
+encontrar o palestrante.
+  
+    Inteligência artificial - O palestrante é de fora do Brasil. A professora
+Renata está ajudando a trazê-lo. Só precisa pagar uma diária de hotel.
+  
+    Redes Neurais - Luís irá seguir procurando pois os palestrantes indicados
+não agradaram.
+  
+    Criptografia - Gustavo falará com Gustavo Zanon.
+  
+    Empresas de Jogos - Arthur tem os contatos da empresa Tapps.
+  
+    Mineração de Dados - Caio Lente já tem o contato do palestrante que sofreu
+um acidente no ano passado e vai começar a comunicação.
+  
+    Carreira acadêmica - Suzana e Samuel precisam de informações sobre o
+público-alvo.
+  
+    Outras palestras - Responsáveis devem mandar informações e usar o Trello.
+  
+
+Além disso, foi sugerido fazer uma planilha para melhor controle dos gastos.
+
+Usem o Trello: https://trello.com/b/kRUsTR3Z/vii-encontro-do-bcc
+
+A próxima reunião será no dia 11/06.

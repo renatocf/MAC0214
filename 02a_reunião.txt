@@ -1,0 +1,74 @@
+Ata da 2ª reunião do VII Encontro do BCC (16/04)
+(feita por: Caio Lente)
+
+Presentes:
+    - Suzana Santos (pós)
+    - Arthur Branco (6º ano)
+    - Lucas Dário (4º ano)
+    - Ludmila Ferreira (4º ano)
+    - Mateus Barros (4º ano)
+    - Renato Cordeiro (4º ano)
+    - João Henrique Luciano (3º ano)
+    - Caio Lente (2º ano)
+    - Vinícius Pessoa (2º ano)
+    - Victor Sprengel (1º ano)
+    - Luís Felipe (1º ano)
+    - Gustavo Silva (1º ano)
+
+Não presentes (destinados a uma vida de dor e sofrimento):
+    - Samuel (pós)
+    - Wilson (pós)
+    - Nathan Benedetto (2º ano)
+    - André Nakazawa (1º ano)
+    - Gabriel Lasso (1º ano)
+    - Hugo (1º ano)
+    - Lucas Stefan (1º ano)
+
+Breve Resumo:
+
+Na reunião de hoje discutimos basicamente possíveis temas para palestras,
+decidimos o tema da Hackathon e estabelecemos metas para cada grupo.
+
+Timeline:
+
+16:15 (Introdução)
+  |
+  | Possibilidade de trazer o Sedgewick e/ou a Dilma para o encontro desse ano
+  | Palestra de Computação Musical (é interessante, mas precisamos ver o
+  |     financiamento)
+  | Hackathon: pedir para as empresas darem workshops sobre algum assunto 
+  |     relacionado (possibilidade de patrocínio)
+  |
+16:22 (Temas)
+  |
+  | Sugestões do 1o ano: sistemas operacionais, inteligência artificial, teoria,
+  |     empreendedorismo (gostariam de ver casos concretos), mulheres no BCC, 
+  |     cidades inteligentes
+  | Sugestões do 2o ano: bio-informática, métodos ágeis, mineração de dados
+  |     (palestrante da UFMG indicado pelo Jackson)
+  | Sugestões do 3o ano: TDD, criptografia
+  | Sugestões do 4o ano: teoria dos jogos, computação quântica, computação
+  |     musical, computação aplicada à astrofísica, redes neurais
+  | Sugestões da pós: bio-informática (grupo da Marrie Sagot), computação de    
+  |     alto-desempenho, USP Game Dev/alguma empresa de jogos, Poli/GNU
+  | Sugestões gerais: o que fazer depois do BCC (acadêmico/mercado) talvez
+  |     uma mesa redonda, mestrado e doutorado, o que é IC, dicas de TCC, 
+  |     palestra para pessoas de fora (divulgar em cursinhos)
+  |
+16:57 (Decisões e ações)
+  |
+  | Achar possíveis palestrantes para cada tema (conversar com professores e 
+  |     postar um "anúncio" na coelhos-rcs)
+  | Votar em temas (próxima reunião)
+  | Tema para a Hackathon (decidido após muito debate): produto voltado à 
+  |     cidade universitária
+  |
+17:12 (Metas)
+  |
+  | Discutimos as metas específicas de cada grupo 
+  |
+17:41 (Próximos capítulos)
+  |
+  | 3a Reunião: 16:00-18:00 em 07/04/15
+  |
+17:45
