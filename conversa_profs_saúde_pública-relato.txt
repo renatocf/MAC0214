@@ -1,0 +1,55 @@
+Reunião com professora da Faculdade de Saúde Pública (07/08)
+(feita por: Ludmila Ferreira)
+
+Presentes: Ludmila Ferreira, Renato Cordeiro, Sônia Coutinho
+
+Reunião:
+
+    A reunião foi feita através de áudio no Skype.
+
+    O vice-prefeito do campus, Tércio Ambrizzi, nos indicou esse projeto que
+    se encaixava na ideia do hackathon e nos colocou em contato com professoras
+    da Faculdade de Saúde Pública.
+
+    Explicamos do que se tratava o Encontro do BCC e que esse ano teríamos o
+    Hackathon, uma maratona de programação no qual o protótipo de um programa
+    é desenvolvido. Falamos que o tema do HackathonIME era sobre a USP como
+    uma cidade inteligente e o objetivo era que os participantes desenvolvessem
+    algo que melhorasse a vida dentro da Cidade Universitária.
+
+    Sônia nos apresentou o projeto no qual elas trabalhavam que se chama
+    “O que você tem a me dizer?” que é desenvolvido desde de 2013 e foca em 
+    ouvir o que o aluno da USP tem a dizer sobre vários assuntos e assim criar
+    um meio de comunicação que estimule a reflexão e ajude o público a perder
+    o medo de responder e opinar sobre determinados assuntos.
+
+    Tópicos relevantes:
+        - Pesquisas com prioridade em ouvir estudantes sobre:
+            - Estilo de vida e forma de consumo do universitário
+            - Política em geral
+            - Políticas universitárias mais próximas do perfil do aluno
+              da USP
+            - Clima
+        - Meios
+            - Celulares, tablet, computador
+            - Ideia de espalhar tokens pela universidade em lugares como pontos
+              de ônibus e entradas dos institutos.
+        - Ferramentas
+            - Software que rode em todos as plataformas
+            - Inquerito digital a partir do software acima
+            - Coleta e análise de dados pelo software acima
+
+    Observações:
+        - O volume de dados seria enorme, em torno de 92 mil pessoas, dado que
+          foca nos alunos da USP.
+        - Ideia de identificação pelo NUSP
+
+    Explicamos para Sônia que um projeto desse tamanho é um pouco dificil de
+    se desenvolver dentro de um hackathon, dado que o que elas esperavam era
+    um software completo e não apenas um protótipo. Também comentamos que
+    esse tipo de projeto se encaixaria melhor na disciplina de Programação
+    Extrema do Departamento de Computação do IME.
+
+    Ao final conversamos, apenas entre alunos da organização, que esse tipo
+    de projeto seria muito complexo para ser feito no HackathonIME.
+
