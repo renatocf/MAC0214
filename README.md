@@ -12,7 +12,8 @@ A ata da conversa entre professores do DCC (Departamento de Ciência da
 Computação do IME-USP) e alunos foi produzida pelo Prof. José Coelho da Pina.
 O formulário disponibilizado para os alunos proporem temas de discussões,
 e a lista de perguntas feitas até a realização da reunião também estão
-anexadas.
+anexadas. A ata da conversa com as professoras da Faculdade de Saúde
+Pública da USP foram produzidas por Ludmila Ferreira.
 
 Os templates das planilhas de programação / escalonamento foram
 produzidos por mim, e preenchidos colaborativamente. Todos os outros
